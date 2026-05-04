@@ -1,0 +1,9 @@
+{
+  "name": "emoji-pusher-mini-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "微信小程序推币机（Cocos 2D）",
+  "scripts": {
+    "gen:assets": "python3 tools/generate_assets.py"
+  }
+}
